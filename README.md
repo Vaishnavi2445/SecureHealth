@@ -151,5 +151,20 @@ The below image is a compilation of images which show the successful deployment 
 <p align="center">
   <img src="./images/P1" alt="Image"/>
 </p>
+<p align="center">
+  <img src="./images/P2" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/P3" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/P4" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/P5" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/P6" alt="Image"/>
+</p>
 
 &nbsp;
