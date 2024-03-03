@@ -149,22 +149,22 @@ web3.eth.getAccounts().then(console.log);
 The below image is a compilation of images which show the successful deployment and working of the project done through REMIX IDE and the Project is run through NodeJS and Lite-Server on Local System
 
 <p align="center">
-  <img src="./images/P1" alt="Image"/>
+  <img src="./images/P1.png" alt="Image"/>
 </p>
 <p align="center">
-  <img src="./images/P2" alt="Image"/>
+  <img src="./images/P2.png" alt="Image"/>
 </p>
 <p align="center">
-  <img src="./images/P3" alt="Image"/>
+  <img src="./images/P3.png" alt="Image"/>
 </p>
 <p align="center">
-  <img src="./images/P4" alt="Image"/>
+  <img src="./images/P4.png" alt="Image"/>
 </p>
 <p align="center">
-  <img src="./images/P5" alt="Image"/>
+  <img src="./images/P5.png" alt="Image"/>
 </p>
 <p align="center">
-  <img src="./images/P6" alt="Image"/>
+  <img src="./images/P6.png" alt="Image"/>
 </p>
 
 &nbsp;
